@@ -1,3 +1,7 @@
+# Moribund 
+
+This project moved to gitlab.library.ucdavis.edu
+
 # Amerine Menu Data (amerine-menu-data)
 
 In June 2017, the UCD Library had about 5400 pages of menus collected
